@@ -1,5 +1,5 @@
 [package]
-name = "rust-tcp-stream-echo-lib"
+name = "tcp-stream-echo"
 version = "0.1.0"
 edition = "2021"
 
