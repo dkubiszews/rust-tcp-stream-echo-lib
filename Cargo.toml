@@ -25,5 +25,8 @@
 name = "tcp-stream-echo"
 version = "0.1.0"
 edition = "2021"
+authors = ["Dawid Kubiszewski <dawidkubiszewski@gmail.com>"]
+description = "A library that back data back on particular TCP port."
+license = "MIT"
 
 [dependencies]
